@@ -7,7 +7,8 @@
             "name": "Debug demo",
             "program": "${workspaceFolder}/build/demo",
             "args": [],
-            "cwd": "${workspaceFolder}"
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "CMake: build demo"
         }
     ]
 }
