@@ -1,0 +1,5 @@
+/Users/zzz/cproject/demo/CMakeFiles/test_fun.dir
+/Users/zzz/cproject/demo/CMakeFiles/mh.dir
+/Users/zzz/cproject/demo/CMakeFiles/demo.dir
+/Users/zzz/cproject/demo/CMakeFiles/edit_cache.dir
+/Users/zzz/cproject/demo/CMakeFiles/rebuild_cache.dir

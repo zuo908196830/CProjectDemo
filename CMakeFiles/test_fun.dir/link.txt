@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtest_fun.a CMakeFiles/test_fun.dir/src/test_fun/t_add.c.o
+/usr/bin/ranlib libtest_fun.a
