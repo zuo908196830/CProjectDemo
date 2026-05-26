@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmh.a CMakeFiles/mh.dir/src/mh/mh_add.c.o
-/usr/bin/ranlib libmh.a
